@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    int mGreen = 3, mRed = 2;
+
+    double wavelengthGreen = 530.0;
+
+    double wavelengthRed = 700.0;
+
+    double angleGreen = 65.0;
+
+    double d, angleRed;
+
+    d = (mGreen * wavelengthGreen) / sin(angleGreen * 3.1416 / 180.0);
+
+    angleRed = asin((mRed * wavelengthRed) / d) * 180.0 / 3.1416;
+
+    printf("The angle for the second-order bright spot for red light is %.2f degrees\n", angleRed);
+
+    return 0;
+}
