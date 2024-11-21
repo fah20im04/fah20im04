@@ -1,0 +1,48 @@
+#include <stdio.h>
+#include <math.h>
+
+double wavelngthCalc(int m, double theta, double d) {
+    double theta_radians = theta * (0.017453);
+    double wavelength_meters = (d * sin(theta_radians)) / m;
+    double wavelength_nm = wavelength_meters * 1e9;
+
+    return wavelength_nm;
+}
+
+int main() {
+    int m;
+    double theta, d;
+
+    printf("Enter (m): ");
+    scanf("%d", &m);
+    printf("Enter theta in degrees: ");
+    scanf("%lf", &theta);
+    printf("Enter d in meters: ");
+    scanf("%lf", &d);
+
+    double wavelength = wavelngthCalc(m, theta, d);
+
+
+    printf("The wavelength of the light is %.2f nm\n", wavelength);
+
+    if(wavelength >=350 && wavelength <450){
+        printf("violet");
+    }else if(wavelength >=450 && wavelength <485){
+        printf("blue");
+    }else if(wavelength >=485 && wavelength <500){
+        printf("cyan");
+    }else if(wavelength >=500 && wavelength <565){
+        printf("green");
+    }else if(wavelength >=565 && wavelength <590){
+        printf("yellow");
+    }else if(wavelength >=590 && wavelength <625){
+        printf("orange");
+    }else if(wavelength >=625 && wavelength <750){
+        printf("red");
+    }else{
+      printf("its not under visible spectrum");
+    }
+
+    return 0;
+}
+
