@@ -53,15 +53,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fah20im04&show_icons=true&theme=react" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fah20im04&theme=react" height="165"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/fahim-ahmed-ayon-07457a388/" target="_blank">
+  <a href="https://www.linkedin.com/in/fahim-ahmed-ayon-07457a388/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/>
   </a>
   <a href="https://github.com/fah20im04 target="_blank">
