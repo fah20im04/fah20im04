@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" />
+</p>
+
 # 👋 Hi, I'm Fahim Ahmed  
 
 🚀 **MERN Stack Developer** | Passionate about building modern web applications  
