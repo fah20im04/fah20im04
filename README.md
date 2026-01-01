@@ -3,24 +3,24 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Fahim Ahmed Ayon</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
+<h3 align="center">MERN Stack Developer | Full-Stack Web Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 I’m a passionate **MERN Stack Developer** who enjoys building modern, scalable, and user-friendly web applications.  
 I love working with **React, Next.js, and Node.js**, and I focus on writing clean, maintainable code.  
-Currently, I’m sharpening my full-stack skills and exploring advanced web technologies.
+Currently, I’m improving my full-stack development skills and exploring advanced web technologies.
 
 ---
 
-## 🚀 Current Activities
-- 🌱 Exploring **Next.js** and server-side rendering
-- 🌱 Exploring **SQL**
-- 💻 Working on a **Indoor Sports Renting System**
-- Stentening my MERN skills day by day
-- 📚 Strengthening problem-solving skills with **C, C++**
-- Started exploring Softwere Development with **JAVA**  
+## 🚀 What I’m Currently Doing
+- 🌱 Learning **Next.js** and Server-Side Rendering (SSR)
+- 🌱 Exploring **SQL & relational databases**
+- 💻 Building an **Indoor Sports Renting System**
+- 🚀 Strengthening my **MERN stack** skills daily
+- 📚 Improving problem-solving skills using **C & C++**
+- ☕ Exploring **Software Development with Java**
 
 ---
 
@@ -64,7 +64,6 @@ Currently, I’m sharpening my full-stack skills and exploring advanced web tech
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fah20im04&show_icons=true&theme=react&cache_seconds=1800" />
 </p>
@@ -77,6 +76,7 @@ Currently, I’m sharpening my full-stack skills and exploring advanced web tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fah20im04&layout=compact&theme=react&cache_seconds=1800" />
 </p>
 
+---
 
 ## 📫 Connect With Me
 <p align="left">
@@ -90,4 +90,4 @@ Currently, I’m sharpening my full-stack skills and exploring advanced web tech
 
 ---
 
-⭐ If you like my work, consider giving a star!
+⭐ If you like my work, feel free to give a star!
