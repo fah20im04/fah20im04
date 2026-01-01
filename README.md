@@ -64,16 +64,19 @@ Currently, I’m sharpening my full-stack skills and exploring advanced web tech
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fah20im04&show_icons=true&theme=react" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fah20im04&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fah20im04&show_icons=true&theme=react&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fah20im04&layout=compact&theme=react" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fah20im04&theme=react&cache_seconds=1800" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fah20im04&layout=compact&theme=react&cache_seconds=1800" />
+</p>
+
 
 ## 📫 Connect With Me
 <p align="left">
